@@ -60,7 +60,7 @@ but in fact it could be done very easily with a webservice.
 ## Instaling
 
 ```bash
-composer require rafaelgou/padl
+composer require jakiboy/padl
 ```
 
 ## Usage
