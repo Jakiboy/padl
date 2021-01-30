@@ -1,9 +1,9 @@
 {
     "name": "jakiboy/padl",
     "version" : "1.1.2",
+    "type": "library",
     "description": "PHP Aplication Licensing",
-    "type": "project",
-    "license": "LGPL",
+    "license": "LGPL-2.1-or-later",
     "authors": [
         {
             "name": "Rafael Goulart",
