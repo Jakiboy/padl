@@ -744,7 +744,7 @@ class License
         mt_srand($seed);
 
         for ($i = 0; $length > $i; $i++) {
-            $str .= $seeds{mt_rand(0, $seedsCount - 1)};
+            $str .= $seeds[mt_rand(0, $seedsCount - 1)];
         }
 
         return $str;
